@@ -1,7 +1,5 @@
 # RetroFútbol
 
-![RetroFútbol Logo/Banner - Optional: Add a project logo or banner here]
-
 ## Descripción
 
 RetroFútbol es una landing page dedicada a revivir los momentos icónicos del fútbol a través de la venta de camisetas retro de alta calidad. No solo ofrecemos productos, sino una experiencia nostálgica que conecta a los aficionados con la rica historia del deporte más hermoso del mundo. Cada camiseta es un homenaje a los héroes, las hazañas y la estética que definieron generaciones.
@@ -21,7 +19,6 @@ Este proyecto está construido con las siguientes tecnologías:
 *   **Next.js:** Framework de React para la creación de aplicaciones web.
 *   **TypeScript:** Lenguaje de programación que añade tipado estático a JavaScript.
 *   **Tailwind CSS:** Framework de CSS utilitario para un diseño rápido y responsivo.
-*   **(Optional: Add any other significant libraries or tools you used)**
 
 ## Configuración del Proyecto
 
@@ -34,5 +31,19 @@ Sigue estos pasos para tener el proyecto corriendo en tu máquina local:
 
 **Instalación:**
 
-1.  Clona el repositorio:
+1.  Clona el repositorio
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias de mejora, por favor abre un "issue" o envía un "pull request".
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+(If you don't have a LICENSE file, you might want to add one. MIT license is a common and permissive choice.)
+
+## Contacto
+
+Si tienes alguna pregunta, puedes contactarme a través sabino.lucas2016@gmail.com
+
 
